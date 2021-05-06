@@ -1,3 +1,9 @@
+# Description
+This landing page theme was from buildwithangga in form of html then convert it using reactJS
+
+# Preview
+landing-page2 : https://relaxed-goldwasser-aa8211.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
