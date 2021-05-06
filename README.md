@@ -1,5 +1,5 @@
 # Description
-This landing page theme was from buildwithangga in form of html then convert it using reactJS
+This landing page theme was from buildwithangga
 
 # Preview
 landing-page2 : https://relaxed-goldwasser-aa8211.netlify.app/
