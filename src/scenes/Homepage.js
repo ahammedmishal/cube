@@ -140,7 +140,7 @@ export default function Homepage() {
                     </div>
                 </Section>
                 <Section>
-                    <Fade bottom delay={1800}>
+                    <Fade bottom delay={1500}>
                         <div className="container">
                             <div className="pricing-inner section-inner has-top-divider">
                                 <div className="section-header center-content">
