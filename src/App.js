@@ -6,7 +6,7 @@ import Homepage from "scenes/Homepage";
 function App(){
   return (
     <div className="App">
-      <Homepage></Homepage>
+      <Homepage/>
     </div>
   );
 }
