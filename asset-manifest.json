@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/cube/static/css/main.18aac231.chunk.css",
+    "main.js": "/cube/static/js/main.84e9ea01.chunk.js",
+    "main.js.map": "/cube/static/js/main.84e9ea01.chunk.js.map",
+    "runtime-main.js": "/cube/static/js/runtime-main.81881755.js",
+    "runtime-main.js.map": "/cube/static/js/runtime-main.81881755.js.map",
+    "static/js/2.e9a309c0.chunk.js": "/cube/static/js/2.e9a309c0.chunk.js",
+    "static/js/2.e9a309c0.chunk.js.map": "/cube/static/js/2.e9a309c0.chunk.js.map",
+    "static/js/3.d0144032.chunk.js": "/cube/static/js/3.d0144032.chunk.js",
+    "static/js/3.d0144032.chunk.js.map": "/cube/static/js/3.d0144032.chunk.js.map",
+    "index.html": "/cube/index.html",
+    "static/css/main.18aac231.chunk.css.map": "/cube/static/css/main.18aac231.chunk.css.map",
+    "static/js/2.e9a309c0.chunk.js.LICENSE.txt": "/cube/static/js/2.e9a309c0.chunk.js.LICENSE.txt",
+    "static/media/clients-01.678ec97a.svg": "/cube/static/media/clients-01.678ec97a.svg",
+    "static/media/clients-02.bbcc409a.svg": "/cube/static/media/clients-02.bbcc409a.svg",
+    "static/media/clients-03.fec71242.svg": "/cube/static/media/clients-03.fec71242.svg",
+    "static/media/clients-04.3ca5f418.svg": "/cube/static/media/clients-04.3ca5f418.svg",
+    "static/media/clients-05.031eaac2.svg": "/cube/static/media/clients-05.031eaac2.svg",
+    "static/media/feature-tile-icon-01.e1fe135f.svg": "/cube/static/media/feature-tile-icon-01.e1fe135f.svg",
+    "static/media/feature-tile-icon-02.f3554320.svg": "/cube/static/media/feature-tile-icon-02.f3554320.svg",
+    "static/media/feature-tile-icon-03.f2c5213b.svg": "/cube/static/media/feature-tile-icon-03.f2c5213b.svg",
+    "static/media/feature-tile-icon-04.99b1499a.svg": "/cube/static/media/feature-tile-icon-04.99b1499a.svg",
+    "static/media/feature-tile-icon-05.658a6c90.svg": "/cube/static/media/feature-tile-icon-05.658a6c90.svg",
+    "static/media/feature-tile-icon-06.a9a075eb.svg": "/cube/static/media/feature-tile-icon-06.a9a075eb.svg",
+    "static/media/hero-image.57c068d3.png": "/cube/static/media/hero-image.57c068d3.png",
+    "static/media/style.css": "/cube/static/media/illustration-section-01.3caff9af.svg",
+    "static/media/logo.54049f7a.svg": "/cube/static/media/logo.54049f7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81881755.js",
+    "static/js/2.e9a309c0.chunk.js",
+    "static/css/main.18aac231.chunk.css",
+    "static/js/main.84e9ea01.chunk.js"
+  ]
+}
