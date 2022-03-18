@@ -107,14 +107,12 @@ export default function Homepage() {
 						<div className="hero-inner section-inner">
 							<div className="hero-content">
                                 <Fade bottom delay={500}>
-								    <h1 className="mt-0 mb-16" > Landing template for startups </h1>
+								    <h1 className="mt-0 mb-16" > Cube  </h1>
                                 </Fade>
 								<div className="container-xs">
                                     <Fade bottom delay={1000}>
 									<p className="mt-0 mb-32" >
-										Our landing page template works on all
-										devices, so you only have to set it up
-										once, and get beautiful results forever.
+                                    LET CUSTOMERS SPEAK FOR OUR SERVICE AND OUR PRODUCTS
 									</p>
                                     </Fade>
 								</div>
